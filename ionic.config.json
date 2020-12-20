@@ -1,0 +1,7 @@
+{
+  "name": "ionic5-devdactic-navigation-guards-tabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
